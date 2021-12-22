@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'GERALDINE PERSONAL USE';
+    src: url('GERALDINEPERSONALUSE-Italic.woff2') format('woff2'),
+        url('GERALDINEPERSONALUSE-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
